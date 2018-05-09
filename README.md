@@ -4,4 +4,8 @@ This guide contains notes, important contents extracted from the book *DOMAIN - 
 
 ## Introduction
 
-## Chapter 2
+## What is Model?
+
+## What is Domain?
+
+## What is Domain Model?
